@@ -11,4 +11,5 @@ If the TPU runtime is not responding or not available, then the GPU or standard 
 ### Local Runtimes
 If you wish to run the code in a local environment, please be advised that the 21 GB dataset file which downloads using the wget tool is quite large and may take several hours to download. Alternatively, there is a link to downloading the dataset here:
 https://service.scedc.caltech.edu/ftp/ross_etal_2018_bssa/scsn_ps_2000_2017_shuf.hdf5
+
 In addition, in the third code cell please change the local path of the file to wherever the file is stored on your local machine to ensure that the code runs.
