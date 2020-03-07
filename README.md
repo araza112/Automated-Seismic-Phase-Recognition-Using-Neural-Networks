@@ -1,5 +1,6 @@
 # Automated-Seismic-Phase-Recognition-Using-Neural-Networks
 This repository contains both the .ipynb file containing the generated graphs and code, as well as the .py file conatinaing only the code. The code is written in Python 3.x, and it's dependencies are: Tensorflow, Keras, Numpy, Matplotlib, and h5py.
+To view the file in Google Colaboratory, please download the .zip file using the clone/download button in the top right of this page, and then upload the file to Google Colaboratory to view it.
 
 ## Running the script
 ### Google Colaboratory Tensor Processing Unit (TPU) Runtimes
